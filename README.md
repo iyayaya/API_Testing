@@ -22,8 +22,8 @@ Getting Started
 -
 1. Clone or download the repository to your local machine.
 2. Open the solution file (**API_Testing.sln**) in Visual Studio.
-3. Build the solution to restore NuGet packages and compile the project.
-4. Open the test file (**RegressionTests.cs**) located in the API_Testing folder.
+3. Right-click on the solution and select **Build Solution** to restore NuGet packages and compile the project.
+4. Open the test file (**RegressionTests.cs**) located in the **API_Testing** folder.
 5. Run the tests using the Test Explorer in Visual Studio or via the command line using a test runner such as dotnet test.
 6. View the test results and ensure that the field value checks pass for the specified API responses.
 
